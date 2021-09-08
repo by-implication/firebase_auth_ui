@@ -20,7 +20,8 @@ A flutter plugin for Firebase Auth UI
   s.dependency 'Firebase'
   s.dependency 'Firebase/Core'
   s.dependency 'FirebaseUI/Email'
-  s.dependency 'FirebaseUI/Facebook'
+  # We don't need this yet.
+  # s.dependency 'FirebaseUI/Facebook'
   s.dependency 'FirebaseUI/Google'
   s.dependency 'FirebaseUI/OAuth'
   s.dependency 'FirebaseUI/Phone'
